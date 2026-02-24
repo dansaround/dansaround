@@ -1,69 +1,45 @@
-# Daniel | Frontend Developer
+# Hi, I'm Daniel 👋
 
-**Senior-focused React & Next.js Developer** based in Peru, building scalable web applications with modern technologies and clean architecture.
+**Frontend Developer** — React, Next.js & TypeScript.
 
-## About Me
+I build production-ready web apps with a modern stack. My background in communications and marketing means I care about the *why* behind the code, not just the how.
 
-I'm a frontend developer with a strong foundation in React and Next.js, specializing in building performant, user-centric web applications. With a background in communications and marketing, I bring a unique perspective that bridges technical implementation with business goals and user experience.
-
-Currently focused on reaching Senior Frontend Developer level through deep expertise in React architecture, TypeScript, and modern state management patterns.
-
-## Technical Stack
-
-**Frontend Core**
-- React.js & Next.js (SSR, SSG, App Router)
-- TypeScript
-- HTML5, CSS3, Responsive Design
-
-**Styling & UI**
-- Tailwind CSS
-- CSS Modules
-- Mobile-first approach
-
-**State Management & Architecture**
-- Redux
-- Component-driven architecture
-- Scalable project structure patterns
-
-**Tools & Ecosystem**
-- Git & GitHub
-- Vercel deployment
-- REST API integration
-- Domain management & web delivery
-
-## Featured Project
-
-### 🎯 [Anime2Watch](https://github.com/dansaround/anime2watch)
-A curated anime discovery platform built with modern web technologies, showcasing clean architecture and responsive design principles.
-
-## Professional Background
-
-- **Languages:** Spanish (native), English (C2 fluent)
-- **International Experience:** Collaborated with remote teams in US and Australia
-- **Cross-functional Skills:** Communications degree + Marketing + Design background
-- **Results-driven:** Top performer mindset with strong analytical and strategic thinking
-
-This diverse experience enables me to:
-- Communicate effectively with non-technical stakeholders
-- Understand business objectives and user needs
-- Work seamlessly in multidisciplinary international teams
-- Translate requirements into technical solutions
-
-## What I'm Building Towards
-
-- Deep expertise in React advanced patterns and performance optimization
-- Scalable frontend architecture for enterprise applications
-- Clean, maintainable code that teams can build upon
-- Leadership in remote development teams
-
-## Let's Connect
-
-I'm open to senior frontend opportunities, especially with remote-first companies focused on product quality and team growth.
-
-**Reach me at:** kcomtdaniel@gmail.com
-
-**Location:** Peru | **Open to:** Remote positions worldwide
+Based in Peru · Remote-first · Open to opportunities worldwide.
 
 ---
 
-*Building web experiences that balance technical excellence with real-world impact*
+## Stack
+
+**Core**
+React.js · Next.js 14/15 (App Router, SSR, SSG) · TypeScript · Tailwind CSS
+
+**Data & State**
+Jotai · Apollo Client · GraphQL · Drizzle ORM · REST APIs
+
+**Services & Tooling**
+Clerk Auth · UploadThing · Upstash Redis · Vercel · Sentry · PostHog
+
+---
+
+## Projects
+
+### [Anime2Watch](https://anime2watch.vercel.app) · [repo](https://github.com/dansaround/anime2watch)
+Anime discovery platform. GraphQL queries via Apollo Client, global state with Jotai, custom pagination and debounce hooks, Framer Motion animations. Built with Next.js 15 + React 19.
+
+### [T3 Gallery](https://gallery-t3-five.vercel.app) · [repo](https://github.com/dansaround/gallery-t3)
+Photo gallery with auth, cloud image uploads, and rate limiting. Full T3 Stack: Next.js 14, Drizzle ORM, Clerk Auth, UploadThing, Upstash Redis. Error tracking via Sentry, analytics via PostHog.
+
+### [CumplePlan](https://cumplelanding.vercel.app) · [repo](https://github.com/dansaround/cumplelanding)
+Client project — landing page for an event planning business. Configurable via JSON data files, EmailJS contact form, animated sections. Next.js 14 + TypeScript.
+
+---
+
+## Background
+
+Communications degree + experience in marketing and design before going deep into frontend development. I've worked remotely with teams in the US and Australia, and I understand how to translate business goals into technical solutions — not just write code.
+
+---
+
+**Email:** kcomtdaniel@gmail.com
+**Portfolio:** [portfolio-git-main-dansaround.vercel.app](https://portfolio-git-main-dansaround.vercel.app)
+**Location:** Peru
