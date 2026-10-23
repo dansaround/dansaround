@@ -23,14 +23,14 @@ Clerk Auth · UploadThing · Upstash Redis · Vercel · Sentry · PostHog
 
 ## Projects
 
+### [WhisperAround](https://github.com/dansaround/whisperaround/releases/latest) · [repo](https://github.com/dansaround/whisperaround)
+Open-source voice dictation for desktop (\"superwhisper but open sourced\"). Press a shortcut, speak, and the text is typed into whatever app you're using. Runs Whisper models locally or in the cloud, with signed auto-updates shipped through GitHub Actions. Built with Tauri + React + TypeScript.
+
 ### [Anime2Watch](https://anime2watch.vercel.app) · [repo](https://github.com/dansaround/anime2watch)
 Anime discovery platform. GraphQL queries via Apollo Client, global state with Jotai, custom pagination and debounce hooks, Framer Motion animations. Built with Next.js 15 + React 19.
 
 ### [T3 Gallery](https://gallery-t3-five.vercel.app) · [repo](https://github.com/dansaround/gallery-t3)
 Photo gallery with auth, cloud image uploads, and rate limiting. Full T3 Stack: Next.js 14, Drizzle ORM, Clerk Auth, UploadThing, Upstash Redis. Error tracking via Sentry, analytics via PostHog.
-
-### [CumplePlan](https://cumplelanding.vercel.app) · [repo](https://github.com/dansaround/cumplelanding)
-Client project — landing page for an event planning business. Configurable via JSON data files, EmailJS contact form, animated sections. Next.js 14 + TypeScript.
 
 ---
 
